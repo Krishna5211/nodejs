@@ -4,7 +4,7 @@
   "description": "",
   "main": "alternative-module.js",
   "scripts": {
-    "start": " nodemon lodash.js"
+    "start": " nodemon test.js"
   },
   "keywords": [],
   "author": "",
